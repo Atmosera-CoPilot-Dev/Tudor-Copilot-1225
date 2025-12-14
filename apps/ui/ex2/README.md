@@ -14,3 +14,4 @@ A modular React app that displays a random welcome message each time it loads. D
 - Create new components in `src/components` and wire them via `src/App.tsx`
 - Add new services under `src/services` for business logic
 - Provide different message providers by implementing the same interface as `messageService.ts`
+- Add end-to-end tests using Cypress or Playwright.

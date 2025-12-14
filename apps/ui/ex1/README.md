@@ -44,4 +44,5 @@ This Angular project displays a random welcome message each time the application
 - Add more welcome messages to the utility.
 - Implement user authentication and personalized messages.
 - Create additional feature modules for different sections of the application.
+- Add end-to-end testing with Protractor or Cypress.
 
